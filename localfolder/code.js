@@ -10,6 +10,7 @@ if(mode==='dark'){
     body.classList.remove('dark');
 }
 else{
+    mode='dark';
     body.classList.add("dark");
     body.classList.remove('light');
 }
