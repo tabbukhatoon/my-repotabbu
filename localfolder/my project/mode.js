@@ -1,2 +1,3 @@
-const pi='3.14';
-console.log(pi);
+let button=document.querySelector(".mode");
+let body=document.querySelector("body");
+console.log(button,body);

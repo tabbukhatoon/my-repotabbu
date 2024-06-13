@@ -3,6 +3,22 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    display: flex;
+    /* justify-self:right;
+     */
+     justify-content: right;
+     margin-top: 20px;
+
+}
+button{
+    background-color: blue;
+    color: white;
+    padding: 7px;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+}
 .light{
     background-color: white;
     color: black;
