@@ -16,6 +16,7 @@ else{
         {
             score++;
         }
+        msg.innerHTML="total vowel count is:"`${score}`
     }
 }
 
